@@ -4,7 +4,7 @@
 
 U terminalu ukucajte "sudo bash precica.sh"
 
-Bez root-a scripta nece raditi !
+Bez "sudo" scripta nece raditi !
 
 
 Pogledajte snimak na youtubu:
