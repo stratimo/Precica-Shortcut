@@ -1,1 +1,6 @@
 theme: jekyll-theme-hacker
+
+title: [Precica-Shortcut]
+description: [Welcome to Stratimo GitHub scripts]
+
+show_downloads: ["true"]
